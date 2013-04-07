@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcVersion4Internet", "MvcVersion4Internet\MvcVersion4Internet.csproj", "{3C9780DF-E7CF-4FEE-AA78-BD00983A7A23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcVersion4Internet.Tests", "MvcVersion4Internet.Tests\MvcVersion4Internet.Tests.csproj", "{C145AF1A-37EB-452F-843B-31A52E23E275}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C9780DF-E7CF-4FEE-AA78-BD00983A7A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C9780DF-E7CF-4FEE-AA78-BD00983A7A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C9780DF-E7CF-4FEE-AA78-BD00983A7A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C9780DF-E7CF-4FEE-AA78-BD00983A7A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C145AF1A-37EB-452F-843B-31A52E23E275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C145AF1A-37EB-452F-843B-31A52E23E275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C145AF1A-37EB-452F-843B-31A52E23E275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C145AF1A-37EB-452F-843B-31A52E23E275}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
