@@ -7,7 +7,7 @@ The ultimate goal is to determine how things have actually changed between versi
 
 
 Temporary Notes
-=====
+----
 
 Visual Studio 2012 and Visual Studio 2012 Update 1 have no real changes to the ASP.NET MVC 3 projects, with the exception of the following code, added immediately before the system.web sessionState element in the root Web.config:
 
