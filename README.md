@@ -33,6 +33,10 @@ Visual Studio 2012 to Update 1 differences
             of SQL Server (including SQL Azure and SQL  Compact) instead of to SQL Server Express.
       -->
 
+2. Numerous packages were updated. See packages.config.
+3. The new package Microsoft.AspNet.Mvc.FixedDisplayModes was added to all project templates.
+4. The shared error page was changed to use an hgroup and two headings instead of one in the Empty project template. It appears this change was already made in the other templates.
+
 TODO
 
 Visual Studio 2012 Update 1 to Update 2 differences
